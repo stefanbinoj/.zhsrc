@@ -7,7 +7,6 @@ DISABLE_UNTRACKED_FILES_DIRTY="true"
 HIST_STAMPS="dd/mm/yyyy"
 plugins=(git)
 
-# PROMPT='%n~$'
 source $ZSH/oh-my-zsh.sh
 export PATH="/opt/homebrew/opt/node@22/bin:$PATH"
 
